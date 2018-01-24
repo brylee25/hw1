@@ -1,0 +1,41 @@
+/* Your CSS code goes in this file. */
+
+
+body {
+  font-family: Verdana;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: White;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+h1 { font-size: 50px; color: Blue; }
+
+div { border: solid 5px gray;
+  padding: 1px;
+}
+
+p.big {
+    line-height: 200%;
+}
