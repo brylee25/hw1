@@ -36,6 +36,8 @@ div { border: solid 5px gray;
   padding: 1px;
 }
 
+}
+
 p.big {
     line-height: 200%;
 }
