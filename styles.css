@@ -26,13 +26,19 @@ li a {
 }
 
 li a:hover {
-    background-color: #555;
+    background-color: Green;
     color: white;
 }
 
 h1 { font-size: 50px; color: Blue; }
+h2 { font-size: 25px; color: Green; }
 
-div { border: solid 5px gray;
+p.big {
+    line-height: 200%;
+}
+
+div {
+  border: solid 5px gray;
   padding: 1px;
 }
 
